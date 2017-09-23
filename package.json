@@ -29,7 +29,7 @@
       "connect-flash": "^0.1.1",
       "connect-modrewrite": "^0.9.0",
       "consolidate": "^0.14.1",
-      "cross-env": "^3.0.0",
+      "cross-env": "^3.0.0"
   
   },
   "engine": {
